@@ -1,6 +1,7 @@
 ## 👋 Olá, bem-vindo ao meu perfil!
-
-Sou **Arthur Almeida Reis**, um desenvolvedor apaixonado por tecnologia e programação. 🚀
+Sou o Arthur Almeida Reis
+🎓 Tenho 17 anos e sou estudante do Ensino Médio Técnico em Informática no **Colégio Cotemig**, em Belo Horizonte.  
+💻 Apaixonado por tecnologia, programação e desenvolvimento web.  
 
 ### 🛠️ Tecnologias e ferramentas:
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
