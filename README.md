@@ -10,7 +10,7 @@ Sou **Arthur Almeida Reis**, um desenvolvedor apaixonado por tecnologia e progra
 - ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🚀 Sobre mim:
-- 📚 Atualmente estou aprendendo mais sobre **C# e desenvolvimento full-stack**.
+- 📚 Atualmente estou aprendendo mais sobre desenvolvimento mobile.
 - 💡 Busco sempre aprimorar minhas habilidades e contribuir com projetos open-source.
 - 💻 Me interesso por desenvolvimento web, aplicações backend e banco de dados.
 
