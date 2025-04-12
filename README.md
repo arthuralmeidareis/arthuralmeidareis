@@ -4,7 +4,7 @@
 
 ---
 
-### 🔍 Arthur's GitHub Stats
+
 
 
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 Linguagens Mais Usadas
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralmeidareis&layout=compact&theme=radical)
 
