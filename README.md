@@ -6,11 +6,7 @@
 
 ### 🔍 Arthur's GitHub Stats
 
-- ⭐ **Total Stars Earned:** *(dinâmico)*  
-- 🔁 **Total Commits (2025):** *(dinâmico)*  
-- 🚀 **Total PRs:** *(dinâmico)*  
-- 🐛 **Total Issues:** *(dinâmico)*  
-- 🌍 **Contributed to (last year):** *(dinâmico)*  
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthuralmeidareis&show_icons=true&theme=radical)
 
