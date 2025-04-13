@@ -1,5 +1,9 @@
 ## Olá, eu sou o Arthur 👨‍💻
 
+🎓 Tenho 17 anos e sou estudante do Ensino Médio Técnico em Informática no **Colégio Cotemig**, em Belo Horizonte.  
+💻 Apaixonado por tecnologia, programação e desenvolvimento web.  
+🚀 Buscando sempre aprender e evoluir na área de software e TI.  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arthur-almeida-reis-a65362305/)
 
 ---
