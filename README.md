@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="src/tumblr_m5zyheRG0l1qj7ct2o1_500.webp"  alt="Snorlax">
+   <img src="src/tumblr_m5zyheRG0l1qj7ct2o1_500.webp" width="200px" height="200px" margin-left="100px" alt="Snorlax">
 </div>
 
 
