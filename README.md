@@ -1,3 +1,18 @@
+<div align="center">
+   <img src="src/sleep_lazy.gif" width="200px" height="200px" margin-left="100px" alt="Gengar Evolution">
+</div>
+
+
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+
+
 ## Olá, eu sou o Arthur 👨‍💻
 
 🎓 Tenho 17 anos e sou estudante do Ensino Médio Técnico em Informática no **Colégio Cotemig**, em Belo Horizonte.  
