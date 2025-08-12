@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="src/sleep_lazy.gif" width="200px" height="200px" margin-left="100px" alt="Gengar Evolution">
+   <img src="src/tumblr_m5zyheRG0l1qj7ct2o1_500.webp"  alt="Snorlax">
 </div>
 
 
