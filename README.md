@@ -1,57 +1,62 @@
 <div align="center">
+   <img src="src/tumblr_m5zyheRG0l1qj7ct2o1_500.webp" width="200px" height="200px" margin-left="100px" alt="Snorlax">
+</div>
 
-## 👋 Olá, eu sou o Arthur
 
-🎓 Estudante de Ensino Médio Técnico em Informática no **Colégio Cotemig**, em Belo Horizonte.  
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+
+
+## Olá, eu sou o Arthur 👨‍💻
+
+🎓 Tenho 18 anos e sou estudante do Ensino Médio Técnico em Informática no **Colégio Cotemig**, em Belo Horizonte.  
 💻 Apaixonado por tecnologia, programação e desenvolvimento web.  
-🚀 Sempre buscando evoluir, aprender novas ferramentas e ampliar minhas habilidades na área de software e TI.
+🚀 Buscando sempre aprender e evoluir na área de software e TI.  
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.tenor.com/nqG3n6L8qVMAAAAC/snorlax-pokemon.gif" width="280">
-</div>
-
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arthur-almeida-reis-a65362305/)
 
 ---
 
-## 📊 Meus GitHub Stats
 
-<div align="center">
 
-### Arthur Almeida Reis' GitHub Stats
 
-![Stars](https://img.shields.io/badge/Total_Stars-1-8A2BE2?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits_(último_ano)-52-8A2BE2?style=for-the-badge)
-![PRs](https://img.shields.io/badge/PRs-0-8A2BE2?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-0-8A2BE2?style=for-the-badge)
-![Contribuições](https://img.shields.io/badge/Contribuições_(último_ano)-0-8A2BE2?style=for-the-badge)
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthuralmeidareis&show_icons=true&theme=radical)
 
-<br>
+
 
 ---
 
-## 💡 Linguagens Mais Utilizadas
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralmeidareis&layout=compact&theme=radical)
+
+---
+
+### 🧰 Tech Stack
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralmeidareis&layout=compact&theme=dracula)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 
 </div>
 
 ---
 
-## 🌐 Redes
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/arthur-almeida-reis/)
-
-</div>
+📬 **Entre em contato comigo:**  
+📧 arthuralmeidareis8@gmail.com
 
 ---
