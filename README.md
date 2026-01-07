@@ -15,7 +15,7 @@
 
 ## Olá, eu sou o Arthur 👨‍💻
 
-🎓 Tenho 18 anos e sou estudante do Ensino Médio Técnico em Informática no **Colégio Cotemig**, em Belo Horizonte.  
+🎓 Tenho 18 anos e sou estudante de ciências da computação na faculdade Cotemig, em Belo Horizonte.  
 💻 Apaixonado por tecnologia, programação e desenvolvimento web.  
 🚀 Buscando sempre aprender e evoluir na área de software e TI.  
 
