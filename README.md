@@ -1,62 +1,44 @@
-<div align="center">
-   <img src="src/tumblr_m5zyheRG0l1qj7ct2o1_500.webp" width="200px" height="200px" margin-left="100px" alt="Snorlax">
-</div>
+# Olá, eu sou o Arthur 👨‍💻
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Idade-18%20anos-blue?style=flat-square" alt="Idade">
+  <img src="https://img.shields.io/badge/Local-Belo%20Horizonte-red?style=flat-square" alt="Localização">
+</p>
 
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-
-
-## Olá, eu sou o Arthur 👨‍💻
-
-🎓 Tenho 18 anos e sou estudante de ciências da computação na faculdade Cotemig, em Belo Horizonte.  
-💻 Apaixonado por tecnologia, programação e desenvolvimento web.  
-🚀 Buscando sempre aprender e evoluir na área de software e TI.  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arthur-almeida-reis-a65362305/)
+### 🎓 Formação e Objetivos
+Sou estudante de **Ciência da Computação** na faculdade **Cotemig**, em Belo Horizonte. 🚀 Buscando sempre aprender e evoluir na área de software e TI, com foco em construir soluções robustas e performáticas.
 
 ---
 
+### 🛠️ Tecnologias e Ferramentas
 
+#### **Back-End**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
 
+### Banco de Dados
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+  &nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthuralmeidareis&show_icons=true&theme=radical)
+### 📚 Aprendendo no momento
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="150"/>
+</p>
 
-
----
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralmeidareis&layout=compact&theme=radical)
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-
-</div>
+<p align="center">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>
+</p>
 
 ---
 
-📬 **Entre em contato comigo:**  
-📧 arthuralmeidareis8@gmail.com
+### 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-almeida-reis-a65362305/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthuralmeidareis)
 
----
+
+
